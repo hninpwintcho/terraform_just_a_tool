@@ -1,0 +1,6 @@
+#vpc_cidr           = "10.2.0.0/16"
+#public_subnet_cidr = "10.2.1.0/24"
+instance_type      = "t3.micro"
+Operation_System   = "amazon-linux-2"
+public_key_name    = "staging-key"
+private_key        = "staging.pem"
