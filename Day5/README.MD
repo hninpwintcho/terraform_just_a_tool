@@ -14,6 +14,6 @@ Day5 :
 # Public key ( used it to create EC2 keypair)
 # Security group  with rules 
 
-# Create netgateway
+# Create natgateway
 # Output
 # Module ( Concept + Handson )
